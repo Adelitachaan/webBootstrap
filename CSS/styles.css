@@ -1,0 +1,40 @@
+body {
+  background: #e6a9ad;
+  color: #312d3a;
+}
+#one {
+  text-align: center;
+  color: red;
+}
+.letter {
+  font-size: 150%;
+  font-family: serif;
+  position: relative;
+  float: right;
+}
+.layer
+{
+  background: white;
+  border: 2px solid #312d3a;
+  padding: 20px;
+  border: 2px dotted #312d3a;
+}
+.space
+{
+  margin: 25px 450px 25px;
+}
+.space2
+{
+  position: sticky;
+  top: 0;
+  padding: 1px;
+  border: 5px dotted #312d3a;
+  background-color:#e6a9ad;}
+.picture
+{ positon: absolute;
+  float: left;
+}
+.textforfloat
+{
+  clear:left;
+}
